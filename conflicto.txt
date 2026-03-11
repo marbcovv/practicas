@@ -1,0 +1,4 @@
+Proyecto: Git Conflicts
+Responsable: TU_NOMBRE
+Version: 1.0
+Responsable: EQUIPO-B
