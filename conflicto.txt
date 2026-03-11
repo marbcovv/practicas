@@ -1,0 +1,4 @@
+Proyecto: Git Conflicts
+Responsable: COVARRUBIAS BASTIDAS MARLENE Alejandra
+Version: 1.0
+Responsable: EQUIPO-A
